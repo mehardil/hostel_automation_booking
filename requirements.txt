@@ -1,0 +1,8 @@
+loguru
+lxml
+lxml
+pandas
+pytest
+python-dotenv
+Requests
+sentry_sdk
